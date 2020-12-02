@@ -47,6 +47,7 @@
 - [ ] Quiz App
 - [ ] Testimonial Box Switcher
 - [ ] Random Image Feed
-- [ ] Todo List
+- [X] Todo List
+- Flutter: [https://github.com/faridlab/flutter-doodoo](https://github.com/faridlab/flutter-doodoo)
 - [ ] Insect Catch Game
 
