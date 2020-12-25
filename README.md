@@ -13,7 +13,8 @@
 - [ ] Faq Collapse
 - [ ] Random Choice Picker
 - [ ] Animated Navigation
-- [ ] Incrementing Counter
+- [X] Incrementing
+- Flutter: [https://github.com/faridlab/flutter-counter](https://github.com/faridlab/flutter-counter)
 - [ ] Drink Water
 - [ ] Movie App
 - [ ] Background Slider
