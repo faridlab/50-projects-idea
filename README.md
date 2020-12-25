@@ -45,7 +45,8 @@
 - [ ] Feedback UI Design
 - [ ] Custom Range Slider
 - [ ] Netflix Mobile Navigation
-- [ ] Quiz App
+- [X] Quiz App
+- Flutter: [https://github.com/faridlab/flutter-quiz](https://github.com/faridlab/flutter-quiz)
 - [ ] Testimonial Box Switcher
 - [ ] Random Image Feed
 - [X] Todo List
