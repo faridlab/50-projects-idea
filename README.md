@@ -15,7 +15,8 @@
 - [ ] Animated Navigation
 - [X] Incrementing
 - Flutter: [https://github.com/faridlab/flutter-counter](https://github.com/faridlab/flutter-counter)
-- [ ] Drink Water
+- [X] Drink Water
+- Flutter: [https://github.com/faridlab/flutter-drinkwater](https://github.com/faridlab/flutter-drinkwater)
 - [ ] Movie App
 - [ ] Background Slider
 - [ ] Theme Clock
